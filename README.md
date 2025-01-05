@@ -22,7 +22,7 @@ Each lecture is accompanied by exercises with solutions.
 | 09       | 09_descriptive statstics  |  Descriptive statistics on data                             |
 | 10       | 10_correlation            |  Correlation on data                                        |
 | 11       | 11_pca                    |  Principal Component Analysis on data                       |
-| 12       | 12_clustering             |  K-means clusetering on data                                |
+| 12       | 12_clustering             |  K-means clustering on data                                |
 | 13       | 13_tutorial               |  Tutorial on data analystics                                |
 
 
