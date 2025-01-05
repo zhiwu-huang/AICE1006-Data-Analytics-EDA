@@ -2,15 +2,6 @@
 
 # Coursework: EDA Project (TBD)
 
-## Brief
-
-### Handin #1
-Due date: Friday 23rd February 2025, 16:00 (TBD).  
-[Handin](https://handin.ecs.soton.ac.uk/soton/2324/COMP6237/2/)	
-
-Required files: brief.pdf  Suggested [Brief Template](https://github.com/jonhare/COMP6237/blob/gh-pages/cw/brief_template.tex)
-
-### Handin #2
 Due date: Friday 16th May 2025, 16:00 (TBD).  
 [Handin](https://handin.ecs.soton.ac.uk/soton/2324/COMP6237/4/)
 
@@ -27,11 +18,7 @@ Each student will propose a project, ideally selecting a dataset or challenge re
 
 ### Deliverables (TBD) 
 
-There are three key deliverables for this coursework:  
-
-- **Project Brief**  
-  Each student must submit a short project brief (maximum 1 A4 page) to ECS Handin by **Friday, 23rd February**.  
-  A suggested [template is available here](https://github.com/jonhare/COMP6237/blob/gh-pages/cw/brief_template.tex).  
+There are two deliverables (1 optional + 1 mandatory) for this coursework:  
 
 - **Project Pitch, Progress Report, and Q&A**  
   During the lecture and tutorial sessions in week 8, progress presentations will take place.  
