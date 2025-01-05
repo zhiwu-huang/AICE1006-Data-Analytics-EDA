@@ -45,7 +45,7 @@ $ pip install --upgrade notebook==6.4.12 traitlets==5.9.0 jupyter jupyter_contri
 ## Quick start
 
 1.  Open a terminal (e.g., in [VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)) in the folder where you have downloaded the slides.ipynb
-2.  Start jupyter:
+2.  Start jupyter using
 ```
 $ jupyter notebook
 ```
