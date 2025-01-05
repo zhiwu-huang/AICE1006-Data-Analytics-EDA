@@ -48,14 +48,14 @@ $ pip install --upgrade notebook==6.4.12 traitlets==5.9.0 jupyter jupyter_contri
 2.  Start jupyter:
 ```
 $ jupyter notebook
-
+```
 or 
+```
 $ jupyter lab
-
+```
 or **VS Code (recommended)**
 
 
-```
 3. Open the slides with jupyter or VS code/jupyter. 
 
 
