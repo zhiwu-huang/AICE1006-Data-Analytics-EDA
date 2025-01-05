@@ -14,7 +14,7 @@ Additionally, while optional, students are encouraged to present an oral interim
 
 ## Details
 
-Each student will propose a project, ideally selecting a dataset or challenge relevant to ongoing or recent data analytics and mining research (refer to the links at the end of this document for inspiration). The project should showcase the student’s ability to apply scientific methods to address a real-world Exploratory Data Analysis (EDA) problem—focusing on a descriptive or interpretative task as part of the individual coursework.
+Each student will propose a project, ideally selecting a dataset or challenge relevant to ongoing or recent data analytics and mining research (refer to the links at the end of this document for inspiration). The project should showcase the student’s ability to apply scientific methods to address a real-world EDA problem—focusing on a descriptive or interpretative task as part of the individual coursework.
 
 ### Deliverables (TBD) 
 
