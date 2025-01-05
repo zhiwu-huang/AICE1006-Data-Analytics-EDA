@@ -1,5 +1,5 @@
 # Python sources for data analytics
-A 13-lecture segment of the AICE1006 module on data analytics (i.e., exploratory data analysis (EDA)), covering processing, visualization, and analysis, using [numpy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [matplotlib](https://matplotlib.org/), [plotly](https://plotly.com/python/) and [scikit-learn](https://scikit-learn.org/stable/).
+A 13-lecture segment of the AICE1006 module on data analytics (i.e., exploratory data analysis (EDA)), covering processing, visualization, and analysis, using [numpy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [matplotlib](https://matplotlib.org/), [plotly](https://plotly.com/python/), and [scikit-learn](https://scikit-learn.org/stable/).
 
 **Note:** Another part of AICE1006 is conducted by [Dr. Hikmat Farhat](https://www.southampton.ac.uk/people/5zvfgb/doctor-hikmat-farhat).
 
