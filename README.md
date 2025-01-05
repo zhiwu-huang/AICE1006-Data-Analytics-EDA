@@ -59,7 +59,7 @@ or **vs code (recommended)**
 4. Click on the rise icon to go in presentation mode or use the command below
 ```
 $ jupyter nbconvert 01_jupyter/01_slides_jupyter.ipynb --to slides --post serve
-
+```
 
 ## Coursework
 
