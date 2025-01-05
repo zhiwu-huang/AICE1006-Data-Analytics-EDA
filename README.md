@@ -48,7 +48,7 @@ $ jupyter notebook
 or 
 $ jupyter lab
 
-or **vs code (recommended)**
+or **VS Code (recommended)**
 
 
 ```
