@@ -38,13 +38,14 @@ To install all the packages, type in a terminal:
 $ pip install numpy scipy pandas matplotlib jupyter
 $ pip install rise
 $ pip install plotly
+$ pip install scikit-learn
 ```
 2. Option 2
 
 ```
 $ conda create --name aice1006 python=3.10.10
 $ conda activate aice1006
-$ conda install numpy scipy pandas matplotlib plotly jupyter
+$ conda install numpy scipy pandas matplotlib plotly jupyter scikit-learn
 ```
 
 
