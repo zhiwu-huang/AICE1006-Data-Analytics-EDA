@@ -60,7 +60,7 @@ or **vs code (recommended)**
 $ jupyter nbconvert 01_jupyter/01_slides_jupyter.ipynb --to slides --post serve
 
 
-## Coursework: @CW.md
+## Coursework: [Guidline](CW.md)
 
 
 ## Credit: 
