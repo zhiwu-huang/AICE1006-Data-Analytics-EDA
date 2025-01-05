@@ -69,6 +69,6 @@ Perform Exploratory Data Analysis (EDA) on a publicly available dataset ([Guidel
 
 ## Credit: 
 
-1. Marco Forgione, Researcher, USI-SUPSI
-2. Jake VanderPlas, Software Engineer, Google Research
-3. Suresh KUMAR Mukhiya, Software Developer, Norway
+* Marco Forgione, Researcher, USI-SUPSI
+* Jake VanderPlas, Software Engineer, Google Research
+* Suresh KUMAR Mukhiya, Software Developer, Norway
