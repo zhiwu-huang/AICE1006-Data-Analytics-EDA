@@ -30,7 +30,7 @@ Each lecture is accompanied by exercises with solutions.
 
 A recent installation of Python (>=3.6) with numpy, scipy, pandas, matplotlib, plotly, jupyter and rise is required.
 
-* To install all the packages, type in a terminal:
+To install all the packages, type in a terminal:
 
 1. Option 1 
 
