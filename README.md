@@ -35,8 +35,12 @@ A recent installation of Python (>=3.6) with numpy, scipy, pandas, matplotlib, p
 $ pip install numpy scipy pandas matplotlib jupyter
 $ pip install rise
 $ pip install plotly
-$ pip install --upgrade notebook==6.4.12 traitlets==5.9.0 jupyter jupyter_contrib_nbextensions (recommended)
 ```
+* Recommend using the below versions
+```
+$ pip install --upgrade notebook==6.4.12 traitlets==5.9.0 jupyter jupyter_contrib_nbextensions
+```
+
 
 ## Quick start
 
