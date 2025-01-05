@@ -63,7 +63,7 @@ $ jupyter nbconvert 01_jupyter/01_slides_jupyter.ipynb --to slides --post serve
 
 ## Coursework
 
-Select an Exploratory Data Analysis (EDA) problem involving a publicly available dataset to investigate ([Guideline here](CW.md)).
+Perform Exploratory Data Analysis (EDA) on a publicly available dataset ([Guideline here](CW.md)).
 
 
 ## Credit: 
