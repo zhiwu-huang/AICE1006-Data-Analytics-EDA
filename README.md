@@ -1,4 +1,4 @@
-# Python tools for data analytics
+# Python sources for data analytics
 A 13-lecture introductory modual on data analytics (processing, visualization, and analysis) with [numpy](https://numpy.org/), 
 [pandas](https://pandas.pydata.org/), [matplotlib](https://matplotlib.org/), and [plotly](https://plotly.com/python/).
 
