@@ -22,7 +22,7 @@ There are two deliverables (1 optional + 1 mandatory) for this coursework:
 
 - **Project Pitch, Progress Report, and Q&A (optional)**  
   During the lecture and tutorial sessions in week 8, progress presentations will take place.  
-  Students may choose to participate by delivering a **7-10 minute presentation** to the class, outlining their project idea and discussing the approaches taken (or planned). A brief Q&A session will follow each presentation.  
+  Students may choose to participate by delivering a **5 minute presentation** to the class, outlining their project idea and discussing the approaches taken (or planned). A brief Q&A session will follow each presentation.  
 
 - **Conference Paper (mandatory)**  
   A final report, written in the style of a conference paper, must be submitted to ECS Handin by **16:00 on Friday, 16th May**.  
