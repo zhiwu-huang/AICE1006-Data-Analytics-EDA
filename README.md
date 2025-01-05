@@ -70,7 +70,7 @@ $ jupyter nbconvert 01_jupyter/01_slides_jupyter.ipynb --to slides --post serve
 
 ## Coursework
 
-Perform Exploratory Data Analysis (EDA) on a publicly available dataset ([Guideline here](CW.md)).
+Perform EDA on a publicly available dataset ([Guideline here](CW.md)).
 
 
 ## Credit: 
