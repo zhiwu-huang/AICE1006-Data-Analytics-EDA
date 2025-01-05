@@ -1,6 +1,6 @@
-*COMP6237 Data Mining*
+*AICE1006 Data Analytics*
 
-# Coursework: EDA Project
+# Coursework: EDA Project (TBD)
 
 ## Brief
 
@@ -25,7 +25,7 @@ Additionally, while optional, students are encouraged to present an oral interim
 
 Each student will propose a project, ideally selecting a dataset or challenge relevant to ongoing or recent data analytics and mining research (refer to the links at the end of this document for inspiration). The project should showcase the student’s ability to apply scientific methods to address a real-world Exploratory Data Analysis (EDA) problem—focusing on a descriptive or interpretative task as part of the individual coursework.
 
-### Deliverables  
+### Deliverables (TBD) 
 
 There are three key deliverables for this coursework:  
 
