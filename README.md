@@ -49,10 +49,6 @@ $ pip install --upgrade notebook==6.4.12 traitlets==5.9.0 jupyter jupyter_contri
 ```
 $ jupyter notebook
 ```
-or 
-```
-$ jupyter lab
-```
 or **VS Code (recommended)**
 
 
