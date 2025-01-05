@@ -32,14 +32,19 @@ A recent installation of Python (>=3.6) with numpy, scipy, pandas, matplotlib, p
 
 * To install all the packages, type in a terminal:
 
+1. Option 1 
+
 ``` 
 $ pip install numpy scipy pandas matplotlib jupyter
 $ pip install rise
 $ pip install plotly
 ```
-* Recommend using the below versions
+2. Option 2
+
 ```
-$ pip install --upgrade notebook==6.4.12 traitlets==5.9.0 jupyter jupyter_contrib_nbextensions
+$ conda create --name aice1006 python=3.10.10
+$ conda activate aice1006
+$ conda install numpy scipy pandas matplotlib plotly jupyter
 ```
 
 
