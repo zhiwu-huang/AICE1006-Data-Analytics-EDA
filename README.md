@@ -4,7 +4,7 @@ A 13-lecture segment of the AICE1006 module on data analytics (i.e., exploratory
 **Note:** Another part of AICE1006 is conducted by [Dr. Hikmat Farhat](https://www.southampton.ac.uk/people/5zvfgb/doctor-hikmat-farhat).
 
 <!-- The course consists in 13 lectures which should last about 1 hours each. --> 
-The lectures are [jupyter](https://jupyter.org/) notebooks to be presented as slides using the [rise](https://rise.readthedocs.io/en/stable/) or related extension.
+The lectures are [jupyter](https://jupyter.org/) notebooks to be presented as slides using the [rise](https://rise.readthedocs.io/en/stable/) or related "jupyter nbconvert"  command.
 Each lecture is accompanied by exercises with solutions.
 
 ## Lecture list
@@ -28,7 +28,7 @@ Each lecture is accompanied by exercises with solutions.
 
 ## Requirements 
 
-A recent installation of Python (>=3.6) with numpy, scipy, pandas, matplotlib, plotly, jupyter, scikit-learn, and rise is required.
+A recent installation of Python (>=3.6) with numpy, scipy, pandas, matplotlib, plotly, jupyter, and scikit-learn is required.
 
 To install all the packages, type in a terminal:
 
