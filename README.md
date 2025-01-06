@@ -28,7 +28,7 @@ Each lecture is accompanied by exercises with solutions.
 
 ## Requirements 
 
-A recent installation of Python (>=3.6) with numpy, scipy, pandas, matplotlib, plotly, jupyter, scikit-learn and rise is required.
+A recent installation of Python (>=3.6) with numpy, scipy, pandas, matplotlib, plotly, jupyter, scikit-learn, and rise is required.
 
 To install all the packages, type in a terminal:
 
