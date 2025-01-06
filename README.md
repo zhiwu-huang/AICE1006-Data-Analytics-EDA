@@ -73,7 +73,7 @@ $ jupyter nbconvert 01_jupyter/01_slides_jupyter.ipynb --to slides --post serve
 Perform EDA on a publicly available dataset ([Guideline here](CW.md)).
 
 
-## Credit: 
+## Credit
 
 * Marco Forgione, Researcher, USI-SUPSI
 * Jake VanderPlas, Software Engineer, Google Research
