@@ -4,7 +4,7 @@ A 13-lecture segment of the AICE1006 module on data analytics (i.e., exploratory
 **Note:** Another part of AICE1006 is conducted by [Dr. Hikmat Farhat](https://www.southampton.ac.uk/people/5zvfgb/doctor-hikmat-farhat).
 
 <!-- The course consists in 13 lectures which should last about 1 hours each. --> 
-The lectures are [jupyter](https://jupyter.org/) notebooks to be presented as slides using either [rise](https://rise.readthedocs.io/en/stable/) or [nbconvert](https://github.com/jupyter/nbconvert).
+The lectures are [jupyter](https://jupyter.org/) notebooks to be presented as slides using either [rise](https://rise.readthedocs.io/en/latest/) or [nbconvert](https://github.com/jupyter/nbconvert).
 Each lecture is accompanied by exercises with solutions.
 
 ## Lecture list
