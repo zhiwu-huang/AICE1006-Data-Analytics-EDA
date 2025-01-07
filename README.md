@@ -74,7 +74,7 @@ $ jupyter nbconvert 01_jupyter/01_slides_jupyter.ipynb --to slides --post serve
 2. Lab on PCA
 
 
-## Coursework
+## Coursework (TBD)
 
 Perform EDA on a publicly available dataset ([Guideline here](CW.md)).
 
