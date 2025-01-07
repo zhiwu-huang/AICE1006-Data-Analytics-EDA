@@ -68,6 +68,12 @@ or **VS Code (recommended)**
 $ jupyter nbconvert 01_jupyter/01_slides_jupyter.ipynb --to slides --post serve
 ```
 
+## Labs (TBD)
+
+1. Lab on advanced plotting
+2. Lab on PCA
+
+
 ## Coursework
 
 Perform EDA on a publicly available dataset ([Guideline here](CW.md)).
