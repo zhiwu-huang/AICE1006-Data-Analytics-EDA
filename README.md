@@ -70,7 +70,7 @@ $ jupyter nbconvert 01_jupyter/01_slides_jupyter.ipynb --to slides --post serve
 
 ## Labs (TBD)
 
-1. Lab on advanced plotting
+1. Lab on plotting
 2. Lab on PCA
 
 
