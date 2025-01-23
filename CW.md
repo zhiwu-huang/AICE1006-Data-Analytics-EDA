@@ -16,16 +16,9 @@ Additionally, while optional, students are encouraged to present an oral interim
 
 Each student will propose a project, ideally selecting a dataset or challenge relevant to ongoing or recent data analytics and mining research (refer to the links at the end of this document for inspiration). The project should showcase the student’s ability to apply scientific methods to address a real-world EDA problem—focusing on a descriptive or interpretative task as part of the individual coursework.
 
-### Deliverables (TBD) 
+### Deliverable (TBD) 
 
-There are two deliverables (1 optional + 1 mandatory) for this coursework:  
-
-- **Project Pitch, Progress Report, and Q&A (optional)**  
-  During the lecture and tutorial sessions in week 8, progress presentations will take place.  
-  Students may choose to participate by delivering a **5 minute presentation** to the class, outlining their project idea and discussing the approaches taken (or planned). A brief Q&A session will follow each presentation.  
-
-- **Project Report (mandatory)**  
-  A final report, written in the style of a conference paper, must be submitted to ECS Handin by **16:00 on Friday, 16th May**.  
+A final report, written in the style of a conference paper, must be submitted to ECS Handin by **16:00 on Friday, 16th May**.  
   The paper **must** follow the [standard 2017 ACM conference proceedings style](https://www.acm.org/publications/proceedings-template) using the `sigconf` style option. The report should not exceed **6 pages**, including all references and appendices (if applicable).  
 
 ### Notes
