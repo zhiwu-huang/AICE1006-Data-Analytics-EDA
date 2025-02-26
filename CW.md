@@ -3,31 +3,31 @@
 # Coursework: EDA Project
 
 Due date: Friday 16th May 2025, 16:00.  
-[Handin](https://handin.ecs.soton.ac.uk/soton/2324/COMP6237/4/)
+[Handin](TBD)
 
 Required files: paper.pdf
 
 ## Overview
 In this coursework, each student will choose an Exploratory Data Analysis (EDA) problem to investigate. Students are expected to carry out a series of EDA experiments on their selected dataset, drawing on the knowledge acquired from Lectures 4 to 12. The outcomes and insights must be documented in the form of a written conference paper.
 
-Additionally, while optional, students are encouraged to present an oral interim progress report to the class during the week to receive timely feedback from the lecturer before the Easter break.
 
 ## Details
 
-Each student will propose a project, ideally selecting a dataset or challenge relevant to ongoing or recent data analytics and mining research (refer to the links at the end of this document for inspiration). The project should showcase the student’s ability to apply scientific methods to address a real-world EDA problem—focusing on a descriptive or interpretative task as part of the individual coursework.
+Each student will propose a project, ideally selecting a dataset, either a publicly available dataset or the dataset generated from Coursework1. Please refer to the links at the end of this document for additional inspiration. The project should showcase the student’s ability to apply their learned methods to address a real-world EDA problem—focusing on a descriptive or interpretative task as part of the individual coursework.
 
-### Deliverable (TBD) 
+### Deliverable 
 
 A final report, written in the style of a conference paper, must be submitted to ECS Handin by **16:00 on Friday, 16th May**.  
   The paper **must** follow the [standard 2017 ACM conference proceedings style](https://www.acm.org/publications/proceedings-template) using the `sigconf` style option. The report should not exceed **6 pages**, including all references and appendices (if applicable).  
 
 ### Notes
+* Students are encouraged to leverage the two "Cousework Q&A" sessions to receive feedback from the lecturer.
 
-* Each student can book time to meet with Zhiwu (ideally in the published office hours or the unused lecture slots) should they need help or guidance.
+* Each student can book time to meet with Zhiwu (ideally in the published office hours or the unused lecture slots) should they need additional help or guidance.
 
 #### Learning Outcomes
 
-* Solve real-word EDA tasks (topics illustrated in Lecture 1)
+* Solve real-word problems using learned EDA technqiues (topics illustrated in Lecture 1)
 * Demonstrate knowledge and understanding of:
 	- Key concepts, tools and approaches for EDA on real-world data sets
 	- Theoretical concepts and the motivations behind different EDA approaches
@@ -41,7 +41,7 @@ Criterion                    | Description                                      
 -----------------------------|--------------------------------------------------------------------------------------------|-------
 Experimentation and Analysis | Analyse the problem and results obtained                                                   | 35
 Application of techniques    | Show ability to apply EDA techniques                                                       | 35
-Reflection		             | Reflect on what the experimental results tell us about the problem and the techniques used | 20
+Reflection		     | Reflect on what the experimental results tell us about the problem and the techniques used | 20
 Reporting                    | Clear and professional reporting                                                           | 10
 
 Standard ECS late submission penalties apply.
