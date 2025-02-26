@@ -1,8 +1,8 @@
 *AICE1006 Data Analytics*
 
-# Coursework: EDA Project (TBD)
+# Coursework: EDA Project
 
-Due date: Friday 16th May 2025, 16:00 (TBD).  
+Due date: Friday 16th May 2025, 16:00.  
 [Handin](https://handin.ecs.soton.ac.uk/soton/2324/COMP6237/4/)
 
 Required files: paper.pdf
