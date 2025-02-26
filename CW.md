@@ -23,7 +23,7 @@ A final report, written in the style of a conference paper, must be submitted to
 ### Notes
 * Students are encouraged to leverage the two "Cousework Q&A" sessions to receive feedback from the lecturer.
 
-* Each student can book time to meet with Zhiwu (ideally in the published office hours or the unused lecture slots) should they need additional help or guidance.
+* Each student can book time to meet with the lecturer (ideally in the published office hours or the unused lecture slots) should they need additional help or guidance.
 
 #### Learning Outcomes
 
@@ -60,4 +60,4 @@ The following list has some pointers to places where you might get some inspirat
 ion run by ACM SIG KDD; datasets, evaluation criteria, and info previous winners are available (note that the most recent competitions are actually hosted on kaggle.com).
 
 ## Questions
-If you have any problems/questions then [email](mailto:Zhiwu.Huang @soton.ac.uk) Zhiwu.
+If you have any problems/questions then [email](mailto:Zhiwu.Huang @soton.ac.uk) the lecturer.
