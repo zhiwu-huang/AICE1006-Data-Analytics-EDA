@@ -1,6 +1,6 @@
 *AICE1006 Data Analytics*
 
-# Coursework: EDA Project
+# AICE1006-Coursework2: EDA Project
 
 Due date: **Friday 16th May 2025, 16:00**.  
 [Handin](TBD) (The link will be determind) 
