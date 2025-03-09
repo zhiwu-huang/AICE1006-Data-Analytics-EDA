@@ -3,7 +3,7 @@
 # AICE1006-Coursework2: EDA Project
 
 Due date: **Friday 16th May 2025, 16:00**.  
-[Handin](TBD) (The link will be determind) 
+[Handin](https://moodle.ecs.soton.ac.uk/mod/assign/view.php?id=12844)
 
 Required files: paper.pdf
 
