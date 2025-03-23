@@ -7959,6 +7959,21 @@ The syntax for computing these features is similar to the previous example:</p>
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<h2 id="Image-Features">Image Features<a class="anchor-link" href="#Image-Features">¶</a></h2><p>Another common need is to suitably encode <em>images</em> for machine learning analysis.
+The simplest approach is what we used for the digits data in <a href="05.02-Introducing-Scikit-Learn.ipynb">Introducing Scikit-Learn</a>: simply using the pixel values themselves.
+But depending on the application, such approaches may not be optimal.</p>
+<p>A comprehensive summary of feature extraction techniques for images is well beyond the scope of this section, but you can find excellent implementations of many of the standard approaches in the <a href="http://scikit-image.org">Scikit-Image project</a>.
+For one example of using Scikit-Learn and Scikit-Image together, see <a href="05.14-Image-Features.ipynb">Feature Engineering: Working with Images</a>.</p>
+</div>
+</div>
+</div>
+</div></section></section><section><section>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <h2 id="Derived-Features">Derived Features<a class="anchor-link" href="#Derived-Features">¶</a></h2><p>Another useful type of feature is one that is mathematically derived from some input features.
 We saw an example of this in <a href="05.03-Hyperparameters-and-Model-Validation.ipynb">Hyperparameters and Model Validation</a> when we constructed <em>polynomial features</em> from our input data.
 We saw that we could convert a linear regression into a polynomial regression not by changing the model, but by transforming the input!</p>
