@@ -40,7 +40,7 @@ Criterion                    | Description                                      
 -----------------------------|--------------------------------------------------------------------------------------------|-------
 Introduction of dataset      | Introduce dataset information (Sec.1)                                                      | 10
 Application of techniques    | Show ability to apply EDA techniques and analyse results obtained (Secs.2-6 + Code)        | 50
-Conclusion/Reflection        | Reflect on you have learned on the dataset and the techniques used (Sec.7)		  | 20
+Conclusion/Reflection        | Reflect on what you have learned on the dataset and the techniques used (Sec.7)		  | 20
 Reporting                    | Clear and professional reporting (Overall)                                                 | 10
 
 Standard ECS late submission penalties apply.
