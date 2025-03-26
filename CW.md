@@ -5,7 +5,7 @@
 Due date: **Friday 16th May 2025, 16:00**.  
 [Handin](https://moodle.ecs.soton.ac.uk/mod/assign/view.php?id=12844)
 
-Required files: paper.pdf
+Required files: paper.pdf + notebook code
 
 ## Overview
 In this coursework, each student will choose an Exploratory Data Analysis (EDA) problem to investigate. Students are expected to carry out a series of EDA experiments on their selected dataset, drawing on the knowledge acquired from Lectures 4 to 12. The outcomes and insights must be documented in the form of a written conference paper.
@@ -17,7 +17,7 @@ Each student will propose a project, ideally selecting a dataset, either a publi
 
 ### Deliverable 
 
-A final report, written in the style of a conference paper, must be submitted to Moodle [Handin](https://moodle.ecs.soton.ac.uk/mod/assign/view.php?id=12844) by **16:00 on Friday, 16th May**.  
+**A zip file of the final report and the notebook code** must be submitted to Moodle [Handin](https://moodle.ecs.soton.ac.uk/mod/assign/view.php?id=12844) by **16:00 on Friday, 16th May**.  
   The paper **must** follow the latex template from **[AICE1006_CourseworkII_template](https://github.com/zhiwu-huang/AICE1006-Data-Analytics-EDA/blob/main/CW_template.zip)**. The report should not exceed **8 pages**, excluding all references and appendices (if applicable).  
 
 ### Notes
@@ -34,15 +34,15 @@ A final report, written in the style of a conference paper, must be submitted to
 
 ### Mark Scheme
 
-The conference paper and presentation will be marked as a single piece of work using the following criteria:
-
+The final coursework report and jupyter notebook code will be marked as a single piece of work using the following criteria:
 
 Criterion                    | Description                                                                                | Marks
 -----------------------------|--------------------------------------------------------------------------------------------|-------
-Experimentation and Analysis | Analyse the problem and results obtained                                                   | 35
-Application of techniques    | Show ability to apply EDA techniques                                                       | 35
-Reflection		     | Reflect on what the experimental results tell us about the problem and the techniques used | 20
-Reporting                    | Clear and professional reporting                                                           | 10
+Introduction of dataset      | Introduce dataset information (Sec.1)                                                      | 10
+Application of techniques    | Show ability to apply EDA techniques and analyse results obtained (Secs.2-6 + Code)        | 50
+Conclusion/Reflection        | Reflect on you have learned on the dataset and the techniques used (Sec.7)		  | 20
+Reporting                    | Clear and professional reporting (Overall)                                                 | 10
+
 
 Standard ECS late submission penalties apply.
 
