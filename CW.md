@@ -17,8 +17,8 @@ Each student will propose a project, ideally selecting a dataset, either a publi
 
 ### Deliverable 
 
-A final report, written in the style of a conference paper, must be submitted to ECS Handin by **16:00 on Friday, 16th May**.  
-  The paper **must** follow the [standard 2017 ACM conference proceedings style](https://www.acm.org/publications/proceedings-template) using the `sigconf` style option. The report should not exceed **6 pages**, including all references and appendices (if applicable).  
+A final report, written in the style of a conference paper, must be submitted to Moodle [Handin](https://moodle.ecs.soton.ac.uk/mod/assign/view.php?id=12844) by **16:00 on Friday, 16th May**.  
+  The paper **must** follow the latex template from **[AICE1006_CourseworkII_template](https://github.com/zhiwu-huang/AICE1006-Data-Analytics-EDA/blob/main/CW_template.zip)**. The report should not exceed **8 pages**, excluding all references and appendices (if applicable).  
 
 ### Notes
 * Students are encouraged to leverage the two "Cousework Q&A" sessions to receive feedback from the lecturer.
