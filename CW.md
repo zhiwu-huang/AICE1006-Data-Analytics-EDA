@@ -61,3 +61,8 @@ ion run by ACM SIG KDD; datasets, evaluation criteria, and info previous winners
 
 ## Questions
 If you have any problems/questions then [email](mailto:Zhiwu.Huang @soton.ac.uk) the lecturer.
+
+## Credit
+
+* The report template is originally from [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025/AuthorGuidelines).
+
