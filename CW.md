@@ -43,10 +43,7 @@ Application of techniques    | Show ability to apply EDA techniques and analyse 
 Conclusion/Reflection        | Reflect on you have learned on the dataset and the techniques used (Sec.7)		  | 20
 Reporting                    | Clear and professional reporting (Overall)                                                 | 10
 
-
 Standard ECS late submission penalties apply.
-
-Written feedback will be given covering the above points, and will be emailed out once marking is complete.
 
 ## Useful Links
 The following list has some pointers to places where you might get some inspiration for data analytics/mining challenges:
