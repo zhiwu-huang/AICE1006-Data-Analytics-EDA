@@ -46,7 +46,7 @@ Reporting                    | Clear and professional reporting (Overall)       
 Standard ECS late submission penalties apply.
 
 ## Useful Links
-The following list has some pointers to places where you might get some inspiration for data analytics/mining challenges:
+The following list has some pointers to places where you might get some inspiration for data analytics/mining challenges (one example dataset for your reference: [Red Wine Quality](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)):
 
 * https://www.kaggle.com - source of lots of different data mining competitions.
 * http://www.drivendata.org - source of lots of different data mining competitions with an emphasis on saving the world.
