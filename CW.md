@@ -56,6 +56,8 @@ The following list has some pointers to places where you might get some inspirat
 * http://www.kdd.org/kdd-cup - KDD Cup is an annual data mining competit[brief_template.pdf](https://github.com/jonhare/COMP6237/files/8068609/brief_template.pdf)
 ion run by ACM SIG KDD; datasets, evaluation criteria, and info previous winners are available (note that the most recent competitions are actually hosted on kaggle.com).
 
+**Note**: Preferred datasets should consist of tabular data, include a sufficient number of samples (e.g., at least 1,000), and have a reasonable number of columns/variables (10 or more, primarily numerical). Ideally, benchmark datasets, such as those available on [Kaggle](https://www.kaggle.com/datasets?topic=benchmarkDataset), are recommended.  
+
 ## Questions
 If you have any problems/questions then [email](mailto:Zhiwu.Huang @soton.ac.uk) the lecturer.
 
