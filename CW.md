@@ -5,7 +5,7 @@
 Due date: **Friday 16th May 2025, 16:00**.  
 [Handin](https://moodle.ecs.soton.ac.uk/mod/assign/view.php?id=12844)
 
-Required files: report.pdf + notebook code
+Required files: **report.pdf + notebook code**
 
 ## Overview
 In this coursework, each student will choose an Exploratory Data Analysis (EDA) problem to investigate. Students are expected to carry out a series of EDA experiments on their selected dataset, drawing on the knowledge acquired from Lectures 4 to 12. The outcomes and insights must be documented in the form of a written conference paper.
