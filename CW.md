@@ -39,7 +39,7 @@ The final coursework report and jupyter notebook code will be marked as a single
 Criterion                    | Description                                                                                | Marks
 -----------------------------|--------------------------------------------------------------------------------------------|-------
 Introduction of dataset      | Introduce dataset information (Sec.1)                                                      | 10
-Application of techniques    | Show ability to apply EDA techniques and analyse results obtained (Secs.2-6 + Code)        | 50
+Application of techniques    | Show ability to apply EDA techniques and analyse results obtained (Secs.2-6 + Code)        | 60
 Conclusion/Reflection        | Reflect on what you have learned on the dataset and the techniques used (Sec.7)		  | 20
 Reporting                    | Clear and professional reporting (Overall)                                                 | 10
 
