@@ -43,7 +43,7 @@ Application of techniques    | Show ability to apply EDA techniques and analyse 
 Conclusion/Reflection        | Reflect on what you have learned on the dataset and the techniques used (Sec.7)		  | 20
 Reporting                    | Clear and professional reporting (Overall)                                                 | 10
 
-Standard ECS late submission penalties apply.
+Standard ECS late submission penalties apply. The [university guidance on writting report](https://library.soton.ac.uk/writinglabreports) would be helpful.
 
 ## Useful Links
 The following list has some pointers to places where you might get some inspiration for data analytics/mining challenges (one example dataset for your reference: [Red Wine Quality](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)):
