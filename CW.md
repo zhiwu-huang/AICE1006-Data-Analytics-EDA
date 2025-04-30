@@ -34,7 +34,7 @@ Each student will propose a project, ideally selecting a dataset, either a publi
 
 ### Mark Scheme
 
-The final coursework report and jupyter notebook code will be marked as a single piece of work using the following criteria (note that **Sec.1-7** are the ones defined in the [LaTeX template](https://github.com/zhiwu-huang/AICE1006-Data-Analytics-EDA/blob/main/CW_template.zip)) :
+The final coursework report and jupyter notebook code will be marked as a single piece of work using the following criteria (note that **Secs.1-7** are the ones defined in the [LaTeX template](https://github.com/zhiwu-huang/AICE1006-Data-Analytics-EDA/blob/main/CW_template.zip)) :
 
 Criterion                    | Description                                                                                | Marks
 -----------------------------|--------------------------------------------------------------------------------------------|-------
