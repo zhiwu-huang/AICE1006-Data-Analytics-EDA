@@ -1,4 +1,4 @@
-*AICE1006 Data Analytics [Updated on 30th April 2025*
+*AICE1006 Data Analytics [Updated on 30th April 2025]*
 
 # AICE1006-Coursework2: EDA Project
 
