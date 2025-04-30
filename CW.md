@@ -18,7 +18,7 @@ Each student will propose a project, ideally selecting a dataset, either a publi
 ### Deliverable 
 
 **A zip file of the final report and the notebook code** must be submitted to Moodle [Handin](https://moodle.ecs.soton.ac.uk/mod/assign/view.php?id=12844) by **16:00 on Friday, 16th May**.  
-  The report **must** follow the [latex template](https://github.com/zhiwu-huang/AICE1006-Data-Analytics-EDA/blob/main/CW_template.zip). It should not exceed **8 pages**, excluding all references and appendices (if applicable).  
+  The report **must** follow the [LaTeX template](https://github.com/zhiwu-huang/AICE1006-Data-Analytics-EDA/blob/main/CW_template.zip). It should not exceed **8 pages**, excluding all references and appendices (if applicable).  
 
 ### Notes
 * Students are encouraged to leverage the two "Cousework Q&A" sessions to receive feedback from the lecturer.
@@ -34,7 +34,7 @@ Each student will propose a project, ideally selecting a dataset, either a publi
 
 ### Mark Scheme
 
-The final coursework report and jupyter notebook code will be marked as a single piece of work using the following criteria (note that **Sec.1-7** are the ones defined in the [latex template](https://github.com/zhiwu-huang/AICE1006-Data-Analytics-EDA/blob/main/CW_template.zip)) :
+The final coursework report and jupyter notebook code will be marked as a single piece of work using the following criteria (note that **Sec.1-7** are the ones defined in the [LaTeX template](https://github.com/zhiwu-huang/AICE1006-Data-Analytics-EDA/blob/main/CW_template.zip)) :
 
 Criterion                    | Description                                                                                | Marks
 -----------------------------|--------------------------------------------------------------------------------------------|-------
