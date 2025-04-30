@@ -1,4 +1,5 @@
 *AICE1006 Data Analytics [Updated on 30th April 2025]*
+*Updates on 30/04/2025: LaTex template & notes of "Mark Scheme"*
 
 # AICE1006-Coursework2: EDA Project
 
