@@ -55,8 +55,7 @@ The following list has some pointers to places where you might get some inspirat
 * http://multimediaeval.org/datasets/ - a range of data and evaluation criteria for different types of data mining problems involving multimedia and multi-modal data.
 * http://www.kdnuggets.com/competitions/past-competitions.html - list of past data mining competitions; data and evaluation criteria is likely to be available for many of these.
 * http://webscope.sandbox.yahoo.com - publicly available research datasets from Yahoo!
-* http://www.kdd.org/kdd-cup - KDD Cup is an annual data mining competit[brief_template.pdf](https://github.com/jonhare/COMP6237/files/8068609/brief_template.pdf)
-ion run by ACM SIG KDD; datasets, evaluation criteria, and info previous winners are available (note that the most recent competitions are actually hosted on kaggle.com).
+* http://www.kdd.org/kdd-cup - KDD Cup is an annual data mining competition run by ACM SIG KDD; datasets, evaluation criteria, and info previous winners are available (note that the most recent competitions are actually hosted on kaggle.com).
 
 **Note**: Preferred datasets should consist of tabular data, include a sufficient number of samples (e.g., at least 1,000), and have a reasonable number of columns/variables (10 or more, primarily numerical). Ideally, benchmark datasets, such as those available on [Kaggle](https://www.kaggle.com/datasets?topic=benchmarkDataset), are recommended.  
 
