@@ -29,7 +29,7 @@ Each student will propose a project, ideally selecting a dataset, either a publi
 
 #### Learning Outcomes
 
-* Solve real-word problems using learned EDA technqiues (topics illustrated in the Lecture on "[EDA Introduction](https://moodle.ecs.soton.ac.uk/course/view.php?id=122)")
+* Solve real-word problems using learned EDA technqiues (topics illustrated in the Lecture on "[EDA Introduction](https://moodle.ecs.soton.ac.uk/pluginfile.php/9308/mod_label/intro/01_Introduction.pdf?time=1741614694442)")
 * Demonstrate knowledge and understanding of:
 	- Key concepts, tools and approaches for EDA on real-world data sets
 	- Theoretical concepts and the motivations behind different EDA approaches
