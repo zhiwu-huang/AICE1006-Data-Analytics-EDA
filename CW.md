@@ -1,5 +1,4 @@
-*AICE1006 EDA Coursework Guideline Versions*
-
+*AICE1006 EDA Coursework Guideline*
 *Updates on 30/04/2025: LaTex template & notes of "Mark Scheme"*
 
 # AICE1006-Coursework2: EDA Project
