@@ -81,6 +81,6 @@ Perform EDA on a publicly available dataset ([Guideline here](CW.md)).
 
 ## Credit
 
-* Marco Forgione, Researcher, USI-SUPSI
-* Jake VanderPlas, Software Engineer, Google Research
-* Suresh KUMAR Mukhiya, Software Developer, Norway
+* Marco Forgione, USI-SUPSI
+* Jake VanderPlas, Google Research
+* Suresh KUMAR Mukhiya, Norway
