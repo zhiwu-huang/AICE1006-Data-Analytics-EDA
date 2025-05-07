@@ -1,6 +1,8 @@
 *AICE1006 EDA Coursework Guideline*
 
 *Updates on 30/04/2025: LaTex template & notes of "Mark Scheme"*
+*Updates on 07/05/2025: PDF version of the CW template & Breakdown of "Mark Scheme"*
+
 
 # AICE1006-Coursework2: EDA Project
 
@@ -20,7 +22,7 @@ Each student will propose a project, ideally selecting a dataset, either a publi
 ### Deliverable 
 
 **A zip file of the final report and the notebook code** must be submitted to Moodle [Handin](https://moodle.ecs.soton.ac.uk/mod/assign/view.php?id=12844) by **16:00 on Friday, 16th May**.  
-  The report **must** follow the [LaTeX template](https://github.com/zhiwu-huang/AICE1006-Data-Analytics-EDA/blob/main/CW_template.zip). It should not exceed **8 pages**, excluding all references and appendices (if applicable).  
+  The report **must** follow the [LaTeX template](https://github.com/zhiwu-huang/AICE1006-Data-Analytics-EDA/blob/main/CW_template.zip) ([PDF Version](https://github.com/zhiwu-huang/AICE1006-Data-Analytics-EDA/blob/main/CW_template.pdf)). It should not exceed **8 pages**, excluding all references and appendices (if applicable).  
 
 ### Notes
 * Students are encouraged to leverage the two "Cousework Q&A" sessions to receive feedback from the lecturer.
@@ -36,7 +38,7 @@ Each student will propose a project, ideally selecting a dataset, either a publi
 
 ### Mark Scheme
 
-The final coursework report and jupyter notebook code will be marked as a single piece of work using the following criteria (note that **the titles of Secs.1-7** are outlined in the [LaTeX template](https://github.com/zhiwu-huang/AICE1006-Data-Analytics-EDA/blob/main/CW_template.zip)) :
+The final coursework report and jupyter notebook code will be marked as a single piece of work using the following criteria (note that **the titles of Secs.1-7** are outlined in the [LaTeX template](https://github.com/zhiwu-huang/AICE1006-Data-Analytics-EDA/blob/main/CW_template.zip), and **a tentative breakdown** of the Mark scheme is available [here](https://github.com/zhiwu-huang/AICE1006-Data-Analytics-EDA/blob/main/CW_Mark_Scheme.pdf) for reference only) :
 
 Criterion                    | Description                                                                                | Marks
 -----------------------------|--------------------------------------------------------------------------------------------|-------
