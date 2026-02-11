@@ -1,7 +1,9 @@
 *AICE1006 EDA Coursework Guideline*
 
 *Updates on 30/04/2025: LaTex template & notes of "Mark Scheme"*
+
 *Updates on 07/05/2025: PDF version of the CW template & Breakdown of "Mark Scheme"*
+
 *Updates on 11/02/2026: new due date for 2025-26*
 
 
