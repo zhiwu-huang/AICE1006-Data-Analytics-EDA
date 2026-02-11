@@ -7,7 +7,7 @@
 
 # AICE1006-Coursework2: EDA Project
 
-Due date: **Friday 16th May 2025, 16:00**.  
+Due date: **15th of May 2025**.  
 [Handin](https://moodle.ecs.soton.ac.uk/mod/assign/view.php?id=12844)
 
 Required files: **report.pdf + notebook code**
