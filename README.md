@@ -1,7 +1,7 @@
 # AICE1006 "Data Analytics" (EDA Part) Lecture Material
 A 13-lecture segment of the AICE1006 module on data analytics (i.e., exploratory data analysis (EDA)), covering processing, visualization, and analysis, using [numpy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [matplotlib](https://matplotlib.org/), [plotly](https://plotly.com/python/), and [scikit-learn](https://scikit-learn.org/stable/).
 
-**Note:** Another part of AICE1006 is conducted by [Dr. Hikmat Farhat](https://www.southampton.ac.uk/people/5zvfgb/doctor-hikmat-farhat).
+**Note:** Another part of AICE1006 is conducted by [Hikmat Farhat](https://www.southampton.ac.uk/people/5zvfgb/doctor-hikmat-farhat) and [Rafael Mestre](https://www.southampton.ac.uk/people/5ylbc9/doctor-rafael-mestre).
 
 <!-- The course consists in 13 lectures which should last about 1 hours each. --> 
 The lectures are [jupyter](https://jupyter.org/) notebooks to be presented as slides using either [rise](https://rise.readthedocs.io/en/latest/) or [nbconvert](https://github.com/jupyter/nbconvert).
