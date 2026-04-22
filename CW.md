@@ -11,7 +11,7 @@
 # AICE1006-Coursework2: EDA Project
 
 Due date: **Friday 15th May 2026, 16:00**.  
-[Handin](https://moodle.ecs.soton.ac.uk/mod/assign/view.php?id=12844)
+[Handin](https://moodle.ecs.soton.ac.uk/mod/assign/view.php?id=14979)
 
 Required files: **report.pdf + notebook code**
 
@@ -25,7 +25,7 @@ Each student will propose a project, ideally selecting a dataset, either a publi
 
 ### Deliverable 
 
-**A zip file of the final report and the notebook code** must be submitted to Moodle [Handin](https://moodle.ecs.soton.ac.uk/mod/assign/view.php?id=12844).  
+**A zip file of the final report and the notebook code** must be submitted to Moodle [Handin](https://moodle.ecs.soton.ac.uk/mod/assign/view.php?id=14979).  
   The report **must** follow the [LaTeX template](https://github.com/zhiwu-huang/AICE1006-Data-Analytics-EDA/blob/main/CW_template.zip) ([PDF](https://github.com/zhiwu-huang/AICE1006-Data-Analytics-EDA/blob/main/CW_template.pdf)). It should not exceed **8 pages**, excluding all references and appendices (if applicable).  
 
 ### Notes
