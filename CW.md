@@ -66,7 +66,7 @@ The following list has some pointers to places where you might get some inspirat
 ### Cousework Q&A
 * Students are encouraged to leverage the two "Cousework Q&A" sessions to receive feedback from the lecturer.
   
-* Each student can book time to meet with the lecturer (ideally in the published office hours or the unused lecture slots) should they need additional help or guidance.
+* Each student can either email the lecture or book time to meet with the lecturer (ideally in the published office hours or the unused lecture slots) should they need additional help or guidance.
 
 **Q1**: Does the dataset we use need to be able to be loaded directly from the internet via a URL as I assume the notebook won't work if it doesn't have access to the data and that we won't be including the raw csv in our submission?
 
