@@ -6,7 +6,7 @@
 
 *Updates on 11/02/2026: new due date for 2025-26*
 
-*Updates on 07/05/2026: Added Q&As in the end of this guide*
+*Updates on 07/05/2026: Added notes in "Objective" and "Q&As" in the end of this guide*
 
 
 
@@ -20,10 +20,11 @@ Required files: **report.pdf + notebook code**
 ## Overview
 In this coursework, each student will choose an Exploratory Data Analysis (EDA) problem to investigate. Students are expected to carry out a series of EDA experiments on their selected dataset, drawing on the knowledge acquired from Lectures 4 to 12. The outcomes and insights must be documented in the form of a written conference paper.
 
-
-## Details
+## Objective
 
 Each student will propose a project, ideally selecting a dataset, either a publicly available dataset or the dataset generated from Coursework1. Please refer to the links at the end of this document for additional inspiration. The project should showcase the student’s ability to apply their learned methods to address a real-world EDA problem—focusing on a descriptive or interpretative task as part of the individual coursework.
+
+**Note**: Students are not given one fixed dataset because dataset selection is part of the coursework. In real data analytics, choosing an appropriate dataset and justifying why it is suitable are important skills. The dataset needs to be rich enough to support meaningful EDA, which is why we recommend tabular data with enough samples, enough variables, and preferably mostly numerical features. A benchmark dataset from Kaggle or similar sources is encouraged because it is usually cleaner, better documented, and easier to reproduce. This also allows students to work on topics they are interested in while still meeting a consistent standard for assessment.
 
 ### Deliverable 
 
@@ -65,7 +66,7 @@ The following list has some pointers to places where you might get some inspirat
 * http://webscope.sandbox.yahoo.com - publicly available research datasets from Yahoo!
 * http://www.kdd.org/kdd-cup - KDD Cup is an annual data mining competition run by ACM SIG KDD; datasets, evaluation criteria, and info previous winners are available (note that the most recent competitions are actually hosted on kaggle.com).
 
-**Note**: Preferred datasets should consist of tabular data, include a sufficient number of samples (e.g., at least 1,000), and have a reasonable number of columns/variables (10 or more, primarily numerical). Ideally, benchmark datasets, such as those available on [Kaggle](https://www.kaggle.com/datasets?topic=benchmarkDataset), are recommended.  
+**Note**: Preferred datasets should consist of tabular data, include a sufficient number of samples (e.g., at least 1,000), and have a reasonable number of columns/variables (10 or more, primarily numerical). Ideally, benchmark datasets, such as those available on [Kaggle](https://www.kaggle.com/datasets?topic=benchmarkDataset), are recommended. 
 
 ## Q&A
 
