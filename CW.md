@@ -6,6 +6,8 @@
 
 *Updates on 11/02/2026: new due date for 2025-26*
 
+*Updates on 07/05/2026: Added Q&A in the end of this guide*
+
 
 
 # AICE1006-Coursework2: EDA Project
@@ -65,8 +67,30 @@ The following list has some pointers to places where you might get some inspirat
 
 **Note**: Preferred datasets should consist of tabular data, include a sufficient number of samples (e.g., at least 1,000), and have a reasonable number of columns/variables (10 or more, primarily numerical). Ideally, benchmark datasets, such as those available on [Kaggle](https://www.kaggle.com/datasets?topic=benchmarkDataset), are recommended.  
 
-## Questions
-If you have any problems/questions then [email](mailto:Zhiwu.Huang @soton.ac.uk) the lecturer.
+## Q&A
+
+**Q**: Does the dataset we use need to be able to be loaded directly from the internet via a URL as I assume the notebook won't work if it doesn't have access to the data and that we won't be including the raw csv in our submission?
+**A**: If the dataset is small (a few MB), you can submit it with the coursework; otherwise, use a public dataset URL or a OneDrive link where you store the data. The water quality dataset sounds like a good choice, as long as it meets the lecture requirements (e.g., 1000+ samples, 10+ columns, mostly numerical, and reasonably high quality, not overly noisy or poorly measured).
+
+**Q**: The dataset I selected has 2 versions, one is the raw dataset and the other is a cleaned version of the dataset. Should I take the raw dataset and clean it myself or work with the cleaned version?
+**A**: The former (cleaning it yourself) looks better if as long as the raw dataset  meets the lecture requirements (e.g., 1000+ samples, 10+ columns, mostly numerical, and reasonably high quality, not overly noisy or poorly measured).
+
+**Q**: In terms of importing the dataset, I plan to use the mlcroissant python package to retrieve it from the web into the notebook. Is it ok to use this package? My worry is that if I download the csv file then when I submit the notebook, you will note have access to the database.
+**A**:  Yes, that should be fine as long as the notebook runs properly on my end for reproduction.
+
+**Q**: With the structure of the report being: abstract, intro, data processing, data plotting, feature engineering, PCA, clustering, conclusion, appendix.
+Why is feature engineering a separate section after data plotting instead of part of the data processing section. Shouldn't engineered features be used when plotting and exploring the correlation of the data?
+**A**: The key is to apply what we covered on feature engineering. Focus on what features you engineer and why. Most plotting can be on the original/raw features. Since PCA and clustering come after feature engineering, you can apply them to both the raw and engineered features for comparison. (Correlation fits more naturally with the PCA discussion, so you can include it there if helpful.)
+
+**Q**: I was wondering if we are allowed to use seaborn for the data analytics coursework in addition to numpy ,sklearn ,matplotlib etc. Thank you for your help.
+**A**: As mentioned in class, I would prefer you to use Matplotlib and Plotly rather than Seaborn for plotting figures. 
+
+
+**Q**: I wanted to ask if the EDA coursework submission needs to have the same section titles as is outlined in the Latex template?
+**A**: Yes, you are normally expected to use the same section titles. Otherwise, please explain why different titles would make more sense for your report.
+
+
+If you have any further problems/questions then [email](mailto:Zhiwu.Huang @soton.ac.uk) the lecturer.
 
 ## Credit
 
