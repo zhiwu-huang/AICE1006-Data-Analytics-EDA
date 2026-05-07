@@ -6,7 +6,7 @@
 
 *Updates on 11/02/2026: new due date for 2025-26*
 
-*Updates on 07/05/2026: Added Q&A in the end of this guide*
+*Updates on 07/05/2026: Added Q&As in the end of this guide*
 
 
 
