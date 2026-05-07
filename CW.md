@@ -31,11 +31,6 @@ Each student will propose a project, ideally selecting a dataset, either a publi
 **A zip file of the final report and the notebook code** must be submitted to Moodle [Handin](https://moodle.ecs.soton.ac.uk/mod/assign/view.php?id=14979).  
   The report **must** follow the [LaTeX template](https://github.com/zhiwu-huang/AICE1006-Data-Analytics-EDA/blob/main/CW_template.zip) ([PDF](https://github.com/zhiwu-huang/AICE1006-Data-Analytics-EDA/blob/main/CW_template.pdf)). It should not exceed **8 pages**, excluding all references and appendices (if applicable).  
 
-### Cousework Q&A
-* Students are encouraged to leverage the two "Cousework Q&A" sessions to receive feedback from the lecturer.
-
-* Each student can book time to meet with the lecturer (ideally in the published office hours or the unused lecture slots) should they need additional help or guidance.
-
 ### Learning Outcomes
 
 * Solve real-word problems using learned EDA technqiues (topics illustrated in the Lecture on "[EDA Introduction](https://moodle.ecs.soton.ac.uk/pluginfile.php/9308/mod_label/intro/01_Introduction.pdf?time=1741614694442)")
@@ -68,7 +63,10 @@ The following list has some pointers to places where you might get some inspirat
 
 **Note**: Preferred datasets should consist of tabular data, include a sufficient number of samples (e.g., at least 1,000), and have a reasonable number of columns/variables (10 or more, primarily numerical). Ideally, benchmark datasets, such as those available on [Kaggle](https://www.kaggle.com/datasets?topic=benchmarkDataset), are recommended. 
 
-## Q&A
+### Cousework Q&A
+* Students are encouraged to leverage the two "Cousework Q&A" sessions to receive feedback from the lecturer.
+  
+* Each student can book time to meet with the lecturer (ideally in the published office hours or the unused lecture slots) should they need additional help or guidance.
 
 **Q1**: Does the dataset we use need to be able to be loaded directly from the internet via a URL as I assume the notebook won't work if it doesn't have access to the data and that we won't be including the raw csv in our submission?
 
